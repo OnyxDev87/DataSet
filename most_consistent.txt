@@ -1,0 +1,6 @@
+Top 5 Most Consistent Entities (Lowest Std Dev):
+Saudi Arabia: Std Dev = 0.0013
+Turkmenistan: Std Dev = 0.0015
+Kuwait: Std Dev = 0.0040
+Hong Kong: Std Dev = 0.0067
+Qatar: Std Dev = 0.0129
