@@ -1,0 +1,105 @@
+Ordered Percent Changes:
+Cyprus: inf%
+Estonia: inf%
+Hong Kong: inf%
+Israel: inf%
+Kuwait: inf%
+Netherlands: inf%
+Oman: inf%
+Qatar: inf%
+Saudi Arabia: inf%
+Singapore: inf%
+Trinidad and Tobago: inf%
+United Arab Emirates: inf%
+Denmark: 88146.60%
+South Africa: 10935.93%
+Belarus: 6591.68%
+Hungary: 5588.01%
+Belgium: 4693.46%
+United Kingdom: 2948.05%
+Poland: 2104.42%
+Romania: 1539.54%
+Lithuania: 1374.42%
+Venezuela: 1245.00%
+Germany: 1104.90%
+Luxembourg: 1060.80%
+Argentina: 927.39%
+Vietnam: 566.06%
+Greece: 547.98%
+Ukraine: 435.54%
+Czechia: 361.56%
+Ireland: 327.07%
+Ecuador: 280.40%
+Central America (BP): 256.88%
+China: 251.39%
+South and Central America (BP): 248.78%
+Iceland: 247.72%
+Western Africa (BP): 228.57%
+Upper-middle-income countries: 228.43%
+North Macedonia: 202.81%
+South America: 193.53%
+Latvia: 188.62%
+Colombia: 180.11%
+European Union (27): 175.49%
+Europe (BP): 171.57%
+Europe: 157.94%
+Non-OECD (BP): 157.33%
+Croatia: 152.41%
+United States: 143.91%
+Bulgaria: 132.93%
+Australia: 132.51%
+Turkey: 123.32%
+Eastern Africa (BP): 117.36%
+OECD (BP): 111.65%
+World: 108.71%
+North America (BP): 108.37%
+Sri Lanka: 107.32%
+Kazakhstan: 106.07%
+Peru: 101.89%
+North America: 86.23%
+CIS (BP): 85.96%
+High-income countries: 75.66%
+Brazil: 67.77%
+Africa (BP): 66.59%
+Africa: 66.26%
+Chile: 65.63%
+Iraq: 65.31%
+Indonesia: 62.63%
+Slovakia: 59.62%
+Malaysia: 53.63%
+Austria: 49.35%
+Slovenia: 47.90%
+Oceania: 46.36%
+Sweden: 45.77%
+Finland: 44.41%
+Asia Pacific (BP): 42.85%
+Asia: 38.70%
+Pakistan: 34.49%
+Russia: 33.93%
+Azerbaijan: 33.27%
+South Korea: 32.66%
+Portugal: 31.26%
+Philippines: 30.31%
+Spain: 29.49%
+France: 29.15%
+Italy: 27.52%
+Turkmenistan: 20.85%
+Canada: 18.89%
+Mexico: 17.68%
+USSR: 15.56%
+Egypt: 11.50%
+Norway: 5.42%
+New Zealand: 2.46%
+India: 1.76%
+Middle Africa (BP): -2.40%
+Lower-middle-income countries: -5.41%
+Switzerland: -5.98%
+Japan: -7.35%
+Thailand: -12.16%
+Uzbekistan: -22.92%
+Middle East (BP): -25.92%
+Morocco: -62.25%
+Taiwan: -72.06%
+Iran: -75.30%
+Bangladesh: -83.16%
+Algeria: -94.51%
